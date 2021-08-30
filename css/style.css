@@ -1,0 +1,42 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+h4{
+    text-align:justify;
+}
+
+.navbar{
+    background-image: linear-gradient(to bottom right, rgb(248, 248, 62), rgb(255, 68, 68));
+}
+
+.quemSomos{
+    background-color:rgb(255, 145, 0);
+    color: beige;
+}
+
+.margin{
+    padding-top:30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color:rgb(255, 221, 28);
+    color: beige;
+}
+
+.img_parceiros{
+    width: 300px;
+    height: 300px; 
+}
+
+.img_servicos{
+    width: 380px;
+    height: 400px;
+}
+
+.footer{
+    background-image: linear-gradient(to bottom right, rgb(252, 252, 38), rgb(248, 44, 44));
+    color: beige;
+}
+
